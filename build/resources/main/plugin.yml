@@ -1,4 +1,0 @@
-name: SqliteJDBC
-version: '1.0'
-main: me.junioraww.sqlite.Main
-load: STARTUP
